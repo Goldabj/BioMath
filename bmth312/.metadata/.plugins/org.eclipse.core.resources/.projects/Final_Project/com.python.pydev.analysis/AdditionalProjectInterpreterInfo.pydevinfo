@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\.metadata\.plugins\org.eclipse.core.resources\.projects\Final_Project\com.python.pydev.analysis\v2_indexcache
+project.Main|1494219165403057000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\Final_Project\project\Main.py
+project.Main2|1494246066078053000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\Final_Project\project\Main2.py
+project.__init__|1494154770220372000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\Final_Project\project\__init__.py
+project.updatedProject|1494794197908313000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\Final_Project\project\updatedProject.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=project.Main
+1=project.Main2
+2=project.updatedProject
+-- END DICTIONARY
+-- START TREE 1
+4
+com|9|computeOptimalScore!10@computeOptimalAlignmentScores!18@computeOptimalScore!26@computeOptimalScore!18@computeMaxAlignment!10@computeOptimalAlignmentScores!26@computeOptimalAlignmentScores!10@computeMaxAlignment!26@computeMaxAlignment!18@
+fin|3|findMaxAlignmentForProteins!18@findMaxAlignmentForProteins!26@findMaxAlignmentForProteins!10@
+mai|3|main!26@main!18@main!10@
+wri|1|writeAlignmentResults!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

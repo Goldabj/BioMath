@@ -1,0 +1,49 @@
+'''
+Created on Mar 21, 2017
+
+@author: Goldacbj
+'''
+from Bio.Seq import Seq
+from Bio.Alphabet import IUPAC
+import pandas as pd
+
+
+def temp(): 
+    dna = Seq("TATGACCAGGGAGCTCTGGAT", IUPAC.unambiguous_dna)
+    reverse_complement = dna.reverse_complement()
+    
+    for i in range (0, 3) : 
+        readingFrame = dna[i:]
+        protein = readingFrame.translate(stop_symbol = "*")
+        print("protein " + str(i) + " = "+ str(protein))
+        
+    for i in range (0, 3) : 
+        readingFrame = reverse_complement[i:]
+        protein = readingFrame.translate(stop_symbol = "*")
+        print("protein " + str(i+3) + " = " + str(protein))
+
+def temp2() :
+    dna = Seq("AACTGATGGTACCCTACAGGAATTGTACCCGATTTTGAGGTC") 
+    print(dna.transcribe())
+    
+    print('\n')
+    
+    index = dna.find("ATG")
+    print(dna[index:].translate())
+    
+    
+def temp3() : 
+    blosum62 = pd.read_csv("file:///C:/Users/Goldacbj/Google Drive/Documents/BIO/BMTH312/Blosum62.csv")
+    blosum62.index = blosum62.columns
+    
+
+    seq1 = "LALWGP"
+    seq2 = "IWSVGT"
+    
+    for s1 in seq2:
+        for s2 in seq1:
+            print(str(blosum62.get_value(s1, s2)) + " ", end=' ')
+        print('\n')
+    
+temp3()
+

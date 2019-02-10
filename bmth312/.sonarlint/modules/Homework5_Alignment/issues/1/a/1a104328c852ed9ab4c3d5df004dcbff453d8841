@@ -1,0 +1,22 @@
+
+wpython:S1542N"URename function "findOrtholog" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ûœÎ8Ìœù¤²+HåO
+wpython:S117!"WRename this local variable "SubMat" to match the regular expression ^[_a-z][a-z0-9_]*$.(š©Ü?8Åö¦”²+HæO
+Bpython:S1110G" Remove those useless parentheses(‰§š…8Ûç¾¥²+HçO
+~python:S1176"XRename this parameter "numOfThreads" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ØÑ›øÿÿÿÿ8‡ª­²+HèO
+Bpython:S1110'" Remove those useless parentheses(‚Ğ˜§8Ó¼¨•²+HéO
+ƒpython:S1542"\Rename function "_searchForBestMatch" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñíæûÿÿÿÿ8Ìœù¤²+HêO
+zpython:S117#"YRename this local variable "maxScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëª’8Åö¦”²+HëO
+{python:S117N"ZRename this parameter "proteomeLookIn" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ûœÎ8Åö¦”²+HìO
+zpython:S117D"YRename this local variable "maxScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëª’8ßŒı–²+HíO
+~python:S117F"^Rename this local variable "possibleScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÀ©t8Ûç¾¥²+HîO
+Gpython:S1110\" Remove those useless parentheses(ÉÆËşÿÿÿÿ8“Ô ¨²+HïO
+python:S117""YRename this local variable "maxIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(àšöáÿÿÿÿÿ8Åö¦”²+HğO
+ƒpython:S1178"bRename this local variable "possibleCanadates" to match the regular expression ^[_a-z][a-z0-9_]*$.(—îİ«8Ûç¾¥²+HñO
+~python:S117C"]Rename this local variable "bestCanadate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÛĞª8Ûç¾¥²+HòO
+{python:S117X"ZRename this local variable "bestMatch" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ«óâ8Åö¦”²+HóO
+Špython:S15426"cRename function "searchForBestMatchThreaded" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ØÑ›øÿÿÿÿ8Ìœù¤²+HôO
+}python:S117"WRename this parameter "finishIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñíæûÿÿÿÿ8ßŒı–²+HõO
+|python:S117"VRename this parameter "startIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñíæûÿÿÿÿ8ßŒı–²+HöO
+ƒpython:S117"]Rename this parameter "possibleCanadates" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñíæûÿÿÿÿ8Ü»Ş¥²+H÷O
+€python:S117"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÂË€ÿÿÿÿÿ8ÓÇŒ¨²+HøO
+ypython:S117N"XRename this parameter "proteomeFrom" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ûœÎ8Åö¦”²+HùO

@@ -1,0 +1,25 @@
+
+Špython:S117f"VRename this parameter "startIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(È¨À½8”†ˆÏ´+Hü^RMINORZ
+CODE_SMELL
+python:S117i"[Rename this local variable "subsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Ö¹š8µ˜°Ï´+Hû^RMINORZ
+CODE_SMELL
+™python:S117"`Rename this local variable "alignmentScores" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ó½úøÿÿÿÿ8›Ë‚Ð´+Hø^RMINORZ
+CODE_SMELL
+“python:S1542f"^Rename function "computeAlignmentScore" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(È¨À½8”†ˆÏ´+Hþ^RMAJORZ
+CODE_SMELL
+•python:S117"aRename this local variable "fruitFlyProteome" to match the regular expression ^[_a-z][a-z0-9_]*$.(äÉ…–8”†ˆÏ´+H÷^RMINORZ
+CODE_SMELL
+python:S117;"YRename this local variable "E_values" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Á¦¨8îâ„µ+Hÿ^RMINORZ
+CODE_SMELL
+Xpython:S125L"Remove this commented out code.(ñœØ¬úÿÿÿÿ8îâ„µ+Hú^RMAJORZ
+CODE_SMELL
+Žpython:S117C"URename this local variable "eVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(žÄŠÏþÿÿÿÿ8îâ„µ+Hõ^RMINORZ
+CODE_SMELL
+Zpython:S1110D" Remove those useless parentheses(àý¾Öøÿÿÿÿ8îâ„µ+Hù^RMAJORZ
+CODE_SMELL
+œpython:S1542T"bRename function "computeAllAlignmentScores" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÜÌÍÅüÿÿÿÿ8”†ˆÏ´+Hý^RMAJORZ
+CODE_SMELL
+Zpython:S1110>" Remove those useless parentheses(…˜·Óûÿÿÿÿ8ñÃÖ„µ+Hô^RMAJORZ
+CODE_SMELL
+ˆpython:S117f"TRename this parameter "endIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(È¨À½8”†ˆÏ´+Hö^RMINORZ
+CODE_SMELL

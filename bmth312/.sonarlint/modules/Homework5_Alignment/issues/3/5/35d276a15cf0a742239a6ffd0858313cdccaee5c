@@ -1,0 +1,73 @@
+
+“python:S117i"_Rename this parameter "lenOfRandomSequence" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ïåÿ8¯Ê‚õ³+H‘_RMINORZ
+CODE_SMELL
+Zpython:S1110d" Remove those useless parentheses(‡ö±üşÿÿÿÿ8¯Ê‚õ³+Hƒ_RMAJORZ
+CODE_SMELL
+python:S117)"WRename this local variable "zScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄšÜùÿÿÿÿ8¯Ê‚õ³+H‰_RMINORZ
+CODE_SMELL
+Upython:S1110I" Remove those useless parentheses(˜Ùİ8ÈÇÕó³+H’_RMAJORZ
+CODE_SMELL
+Upython:S1110Y" Remove those useless parentheses(Ÿû¦±8îÀŠô³+H_RMAJORZ
+CODE_SMELL
+”python:S117w"[Rename this parameter "globalAlignment" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÚñÆıÿÿÿÿ8¯Ê‚õ³+HŠ_RMINORZ
+CODE_SMELL
+•python:S1542r"`Rename function "computePscoreFromZscore" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ğ·åÜ8øÜ¯Æ´+H_RMAJORZ
+CODE_SMELL
+Œpython:S117i"XRename this parameter "referenceSeq" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ïåÿ8¯Ê‚õ³+H™_RMINORZ
+CODE_SMELL
+Œpython:S1542"RRename function "num1partA" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½•ú’øÿÿÿÿ8îÀŠô³+H“_RMAJORZ
+CODE_SMELL
+–python:S1542R"aRename function "getInsulinAlignmentScore" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İ€éÉ8îÀŠô³+H›_RMAJORZ
+CODE_SMELL
+špython:S1542C"`Rename function "generateRandomSequences" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆ²ª·ıÿÿÿÿ8ÈÇÕó³+H–_RMAJORZ
+CODE_SMELL
+python:S1179"WRename this local variable "zScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö‘ÊÑûÿÿÿÿ8ÂäÂÇ´+H‚_RMINORZ
+CODE_SMELL
+‡python:S1542/"RRename function "num1partC" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ú°çÓ8¦´³Ç´+H—_RMAJORZ
+CODE_SMELL
+‹python:S117R"WRename this parameter "globalAlign" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ€éÉ8îÀŠô³+H‡_RMINORZ
+CODE_SMELL
+python:S117`"VRename this parameter "proteinKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(çßçşÿÿÿÿ8¯Ê‚õ³+H£_RMINORZ
+CODE_SMELL
+‡python:S1542""RRename function "num1partB" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ç™úÃ8¯Ê‚õ³+Hˆ_RMAJORZ
+CODE_SMELL
+Œpython:S15425"RRename function "num1partD" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ä÷ËÚúÿÿÿÿ8ÂäÂÇ´+H•_RMAJORZ
+CODE_SMELL
+™python:S117}"`Rename this local variable "randomSequences" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢ğ»°şÿÿÿÿ8¯Ê‚õ³+HŸ_RMINORZ
+CODE_SMELL
+python:S117i"[Rename this parameter "globalAlignment" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ïåÿ8¯Ê‚õ³+Hš_RMINORZ
+CODE_SMELL
+python:S1542‰"bRename function "computeLetterDistribution" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øòÈ»ûÿÿÿÿ8¬ Ç´+H‹_RMAJORZ
+CODE_SMELL
+Upython:S1110G" Remove those useless parentheses(ˆÎ¤é8ÈÇÕó³+H€_RMAJORZ
+CODE_SMELL
+Ÿpython:S1542w"eRename function "computeRandomAlignmentScores" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÿÚñÆıÿÿÿÿ8¯Ê‚õ³+H _RMAJORZ
+CODE_SMELL
+‘python:S117C"XRename this parameter "sequenceSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ²ª·ıÿÿÿÿ8ÈÇÕó³+H_RMINORZ
+CODE_SMELL
+‹python:S117R"WRename this parameter "proteinKey2" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ€éÉ8îÀŠô³+H_RMINORZ
+CODE_SMELL
+python:S117y"[Rename this local variable "subsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Ö¹š8¯Ê‚õ³+H„_RMINORZ
+CODE_SMELL
+–python:S1542`"\Rename function "getSequenceFromFile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çßçşÿÿÿÿ8¯Ê‚õ³+H†_RMAJORZ
+CODE_SMELL
+˜python:S117w"_Rename this parameter "lenOfRandomSequence" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÚñÆıÿÿÿÿ8¯Ê‚õ³+H_RMINORZ
+CODE_SMELL
+‹python:S117R"WRename this parameter "proteinKey1" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ€éÉ8å¿–ô³+H_RMINORZ
+CODE_SMELL
+–python:S117k"]Rename this local variable "randomScores" to match the regular expression ^[_a-z][a-z0-9_]*$.(•Ú«ûÿÿÿÿ8¯Ê‚õ³+H”_RMINORZ
+CODE_SMELL
+[python:S1110" Remove those useless parentheses(Ù¡İÎşÿÿÿÿ8¯Ê‚õ³+H¡_RMAJORZ
+CODE_SMELL
+—python:S1542i"bRename function "computeZscoreForAlignment" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§ïåÿ8¯Ê‚õ³+H¢_RMAJORZ
+CODE_SMELL
+‹python:S117*"WRename this local variable "pScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ŒÒø8¯Ê‚õ³+H˜_RMINORZ
+CODE_SMELL
+‹python:S117:"WRename this local variable "pScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ŒÒø8ÂäÂÇ´+H_RMINORZ
+CODE_SMELL
+python:S117T"[Rename this local variable "subsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Ö¹š8îÀŠô³+H…_RMINORZ
+CODE_SMELL
+–python:S117z"]Rename this local variable "randomScores" to match the regular expression ^[_a-z][a-z0-9_]*$.(²Œ£şûÿÿÿÿ8¯Ê‚õ³+Hœ_RMINORZ
+CODE_SMELL
+“python:S117C"ZRename this parameter "numOfSequences" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ²ª·ıÿÿÿÿ8ÈÇÕó³+HŒ_RMINORZ
+CODE_SMELL

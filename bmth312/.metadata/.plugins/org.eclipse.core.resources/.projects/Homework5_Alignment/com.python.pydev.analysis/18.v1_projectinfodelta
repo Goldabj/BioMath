@@ -1,0 +1,11 @@
+INSTUPdefaultPackage.Alignment
+C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\Homework5_Alignment\defaultPackage\Alignment.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1&&2|7|2|1&&2|8|2|1
+_backTrackForAlignment=7
+Alignment=1
+computeAlignment=4
+_computeOptimalPathMatrix=6
+defaultPackage.Alignment=2
+_computeScoringMatrix=5
+interactiveInputAlignment=3
+computeAlignmentScore=8

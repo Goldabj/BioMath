@@ -1,0 +1,24 @@
+'''
+Created on May 7, 2017
+
+@author: Goldacbj
+'''
+# Carrier - Anopheles-arabiensis-Dongola_PEPTIDES_AaraD1.3.fa
+# Non-Carrier1 - Anopheles-quadriannulatus-SANGQUA_PEPTIDES.AquaS1.3.fa
+# Non_carrier2 - Anopheles-christyi-ACHKN1017_PEPTIDES_AchrA1.3.fa
+
+## Steps: 
+# Part 1: 
+# * align genes from carrier with ones from Non-carrier and record genes that are under 85% seq identity 
+# * align the 85% seq idenetiy genes with ones from non-carrier 2 and record those which are also under 85%
+
+# Part 2: 
+# * algin the most proment genes with 3 other carriers and determine the best match with those
+
+# Part 3: 
+# * Algin the best gene with the rest of the mosquito proteins and find best match from all 
+# * parform multip seq alignment and create logos
+
+#### -------------------------------- PART ! ---------------------------------------------
+
+

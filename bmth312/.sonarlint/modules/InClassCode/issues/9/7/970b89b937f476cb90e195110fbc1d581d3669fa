@@ -1,0 +1,33 @@
+
+Špython:S117"URename this local variable "sigS" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß®ÊÜ8›„é·+HÇ_RMINORZ
+CODE_SMELL
+Špython:S117"]Rename this local variable "readingFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Ïˆ¾HÈ_RMINORZ
+CODE_SMELL
+˜python:S15426"cRename function "probablitiyMutationExample" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õƒéİ8Äâ°±+HÉ_RMAJORZ
+CODE_SMELL
+ˆpython:S117_"TRename this local variable "Mii" to match the regular expression ^[_a-z][a-z0-9_]*$.(––†å8‹«è§³+HÊ_RMINORZ
+CODE_SMELL
+python:S1542)"dRename function "readBlosum62AlignmentScores" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Øá‰óùÿÿÿÿ8³‡Ä¬²+HË_RMAJORZ
+CODE_SMELL
+˜python:S1542I"^Rename function "computeMutationMatrix" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦ê¹¥ùÿÿÿÿ8ØÚ¬²+HÌ_RMAJORZ
+CODE_SMELL
+”python:S1542i"ZRename function "alignmentStats5_2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊŒÍ³şÿÿÿÿ8Àæ­Ñ³+HÍ_RMAJORZ
+CODE_SMELL
+›python:S117\"bRename this local variable "totalMutationRate" to match the regular expression ^[_a-z][a-z0-9_]*$.(çĞ·øÿÿÿÿ8ŒóÀ¬²+HÎ_RMINORZ
+CODE_SMELL
+python:S117`"TRename this local variable "Mij" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ì–˜ıÿÿÿÿ8¥«î¨³+HÏ_RMINORZ
+CODE_SMELL
+python:S1542"URename function "FindSequence" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñõ›¦øÿÿÿÿ8³‡Ä¬²+HĞ_RMAJORZ
+CODE_SMELL
+python:S117‹"VRename this local variable "meanS" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¶Õûÿÿÿÿ8›„é·+HÑ_RMINORZ
+CODE_SMELL
+–python:S117J"]Rename this local variable "countsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(”©»èøÿÿÿÿ8ØÚ¬²+HÒ_RMINORZ
+CODE_SMELL
+“python:S1542"YRename function "SequenceExamples" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º ğíùÿÿÿÿ8³‡Ä¬²+HÓ_RMAJORZ
+CODE_SMELL
+”python:S117E"[Rename this local variable "subsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(«Ÿ‰øÿÿÿÿ8—Ùš±±+HÔ_RMINORZ
+CODE_SMELL
+python:S117R"\Rename this local variable "probsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(ı–»£8ØÚ¬²+HÕ_RMINORZ
+CODE_SMELL
+˜python:S117V"_Rename this local variable "MutationMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒáÈÂùÿÿÿÿ8á…¶¬²+HÖ_RMINORZ
+CODE_SMELL

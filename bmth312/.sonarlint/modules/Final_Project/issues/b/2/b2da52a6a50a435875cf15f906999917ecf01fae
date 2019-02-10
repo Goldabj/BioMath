@@ -1,0 +1,19 @@
+
+‹python:S1542£"\Rename function "computeMaxAlignment" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÚåH†­RMAJORZ
+CODE_SMELL
+›python:S1542š"fRename function "computeOptimalAlignmentScores" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»Ã³³ÿÿÿÿÿHŠ­RMAJORZ
+CODE_SMELL
+python:S117Â"[Rename this local variable "proteomeID" to match the regular expression ^[_a-z][a-z0-9_]*$.(éÖ­¾ıÿÿÿÿH­RMINORZ
+CODE_SMELL
+™python:S1542´"dRename function "findMaxAlignmentForProteins" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õ¯¿ÊùÿÿÿÿH’­RMAJORZ
+CODE_SMELL
+python:S117¼"[Rename this local variable "proteomeID" to match the regular expression ^[_a-z][a-z0-9_]*$.(îäæûÿÿÿÿH•­RMINORZ
+CODE_SMELL
+python:S117È"[Rename this local variable "proteomeID" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ÕîÚüÿÿÿÿH˜­RMINORZ
+CODE_SMELL
+’python:S117›"^Rename this local variable "scoringMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘”—¯üÿÿÿÿH›­RMINORZ
+CODE_SMELL
+‘python:S1542‘"\Rename function "computeOptimalScore" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯¦ë¿øÿÿÿÿH­RMAJORZ
+CODE_SMELL
+python:S117‹"[Rename this local variable "outputFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë¶§ÃşÿÿÿÿH¡­RMINORZ
+CODE_SMELL

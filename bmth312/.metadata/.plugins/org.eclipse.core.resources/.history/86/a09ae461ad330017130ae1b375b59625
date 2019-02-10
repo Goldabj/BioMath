@@ -1,0 +1,85 @@
+'''
+Created on May 8, 2017
+
+@author: Goldacbj
+'''
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord
+from Bio.Alphabet import IUPAC
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from Bio import SeqIO
+from Bio import pairwise2
+from Bio.SubsMat import MatrixInfo as matlist
+import scipy.stats as stats
+
+## Steps: 
+# Part 1: 
+# * research for proteins which have been found to possibly do with malaria
+# * record these genes into a fasta document
+# * Read in all the proteins and the proteomes for carriers, mild carriers, and non carriers
+
+# Part 2: 
+# * record the optimal alignment score for each protein
+# * align each protein to each proteome and record highest scoring alignment and its score
+
+# Part 3: 
+# * Statistically analyze and determine the most corrolated protein with malaria
+
+# Part 4:
+# * Create a sequence logo for the top protein and its alingments
+
+def main():
+    # ----------------------- PART 1 ---------------------------
+    ### carrier Proteomes ----------------------
+    carrier_proteomes = dict()
+    
+    # Anopheles-arabiensis-Dongola_PEPTIDES_AaraD1.3.fa
+    carrier1_proteome = list(SeqIO.parse("Anopheles-arabiensis-Dongola_PEPTIDES_AaraD1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-arabiensis-Dongola_PEPTIDES_AaraD1.3.fa'] = carrier1_proteome
+
+    # Anopheles-darlingi-Coari_PEPTIDES_AdarC3.3.fa
+    carrier2_proteome = list(SeqIO.parse("Anopheles-darlingi-Coari_PEPTIDES_AdarC3.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-darlingi-Coari_PEPTIDES_AdarC3.3.fa'] = carrier2_proteome
+
+    # Anopheles-gambiae-PEST_PEPTIDES_AgamP4.3.fa
+    carrier3_proteome = list(SeqIO.parse("Anopheles-gambiae-PEST_PEPTIDES_AgamP4.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-gambiae-PEST_PEPTIDES_AgamP4.3.fa'] = carrier3_proteome
+
+    # Anopheles-atroparvus-EBRO_PEPTIDES_AatrE1.3.fa
+    carrier4_proteome = list(SeqIO.parse("Anopheles-atroparvus-EBRO_PEPTIDES_AatrE1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-atroparvus-EBRO_PEPTIDES_AatrE1.3.fa'] = carrier4_proteome
+
+    # Anopheles-coluzzii-Mali-NIH_PEPTIDES_AcolM1.2.fa
+    carrier5_proteome = list(SeqIO.parse("Anopheles-coluzzii-Mali-NIH_PEPTIDES_AcolM1.2.fa", "fasta"))
+    carrier_proteomes['Anopheles-coluzzii-Mali-NIH_PEPTIDES_AcolM1.2.fa'] = carrier5_proteome
+
+    # Anopheles-culicifacies-A-37_PEPTIDES_AculA1.3.fa
+    carrier6_proteome = list(SeqIO.parse("Anopheles-culicifacies-A-37_PEPTIDES_AculA1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-culicifacies-A-37_PEPTIDES_AculA1.3.fa'] = carrier6_proteome
+
+    # Anopheles-dirus-WRAIR2_PEPTIDES_AdirW1.3.fa
+    carrier7_proteome = list(SeqIO.parse("Anopheles-dirus-WRAIR2_PEPTIDES_AdirW1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-dirus-WRAIR2_PEPTIDES_AdirW1.3.fa'] = carrier7_proteome
+
+    # Anopheles-farauti-FAR1_PEPTIDES_AfarF2.1.fa
+    carrier8_proteome = list(SeqIO.parse("Anopheles-farauti-FAR1_PEPTIDES_AfarF2.1.fa", "fasta"))
+    carrier_proteomes['Anopheles-farauti-FAR1_PEPTIDES_AfarF2.1.fa'] = carrier8_proteome
+
+    # Anopheles-funestus-FUMOZ_PEPTIDES_AfunF1.3.fa
+    carrier9_proteome = list(SeqIO.parse("Anopheles-funestus-FUMOZ_PEPTIDES_AfunF1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-funestus-FUMOZ_PEPTIDES_AfunF1.3.fa'] = carrier9_proteome
+
+    # Anopheles-maculatus-maculatus3_PEPTIDES_AmacM1.3.fa
+    carrier10_proteome = list(SeqIO.parse("Anopheles-maculatus-maculatus3_PEPTIDES_AmacM1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-maculatus-maculatus3_PEPTIDES_AmacM1.3.fa'] = carrier10_proteome
+
+    # Anopheles-sinensis-SINENSIS_PEPTIDES_AsinS2.1.fa
+    carrier11_proteome = list(SeqIO.parse("Anopheles-sinensis-SINENSIS_PEPTIDES_AsinS2.1.fa", "fasta"))
+    carrier_proteomes['Anopheles-sinensis-SINENSIS_PEPTIDES_AsinS2.1.fa'] = carrier11_proteome
+
+    # Anopheles-stephensi_SDA-500_PEPTIDES.AsteS1.3.fa
+    carrier12_proteome = list(SeqIO.parse("Anopheles-stephensi_SDA-500_PEPTIDES.AsteS1.3.fa", "fasta"))
+    carrier_proteomes['Anopheles-stephensi_SDA-500_PEPTIDES.AsteS1.3.fa'] = carrier12_proteome
+

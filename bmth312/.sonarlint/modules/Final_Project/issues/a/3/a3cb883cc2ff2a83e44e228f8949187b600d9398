@@ -1,0 +1,19 @@
+
+™python:S117¥"^Rename this local variable "scoringMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(âƒ°üÿÿÿÿ8œË¨ÅÀ+Hµ¯RMINORZ
+CODE_SMELL
+¢python:S1542¢"fRename function "computeOptimalAlignmentScores" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»Ã³³ÿÿÿÿÿ8œË¨ÅÀ+H¸¯RMAJORZ
+CODE_SMELL
+Wpython:S1110½" Remove those useless parentheses(¡ö½Ã8œË¨ÅÀ+Hº¯RMAJORZ
+CODE_SMELL
+–python:S117‚"[Rename this local variable "outputFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï»şÿÿÿÿ8œË¨ÅÀ+H»¯RMINORZ
+CODE_SMELL
+’python:S1542°"\Rename function "computeMaxAlignment" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ù“†y8œË¨ÅÀ+H½¯RMAJORZ
+CODE_SMELL
+python:S117É"XRename this parameter "numofThreads" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ŸŠƒ8œË¨ÅÀ+H¿¯RMINORZ
+CODE_SMELL
+ python:S1542É"dRename function "findMaxAlignmentForProteins" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞÓÖøÿÿÿÿ8œË¨ÅÀ+HÁ¯RMAJORZ
+CODE_SMELL
+•python:S1542¿"^Rename function "writeAlignmentResults" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÍÙÅ8œË¨ÅÀ+HÃ¯RMAJORZ
+CODE_SMELL
+˜python:S1542™"\Rename function "computeOptimalScore" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯¦ë¿øÿÿÿÿ8œË¨ÅÀ+HÅ¯RMAJORZ
+CODE_SMELL

@@ -1,0 +1,43 @@
+
+Vpython:S1110g" Remove those useless parentheses(ŞÎ›‰8ô‘úØ²+H¶¯RMAJORZ
+CODE_SMELL
+”python:S117"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÂË€ÿÿÿÿÿ8×´¥¯²+H·¯RMINORZ
+CODE_SMELL
+python:S117"VRename this parameter "startIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦Ó¦‘ûÿÿÿÿ8Âº¹º²+H¹¯RMINORZ
+CODE_SMELL
+python:S117K"YRename this local variable "maxScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëª’8×´¥¯²+H¼¯RMINORZ
+CODE_SMELL
+python:S117"TRename this parameter "endIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦Ó¦‘ûÿÿÿÿ8Âº¹º²+H¾¯RMINORZ
+CODE_SMELL
+‹python:S117 "WRename this local variable "SubMat" to match the regular expression ^[_a-z][a-z0-9_]*$.(š©Ü?8×´¥¯²+HÀ¯RMINORZ
+CODE_SMELL
+“python:S117!"YRename this local variable "maxIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(àšöáÿÿÿÿÿ8×´¥¯²+HÂ¯RMINORZ
+CODE_SMELL
+’python:S117J"]Rename this local variable "bestCanadate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÛĞª8×´¥¯²+HÄ¯RMINORZ
+CODE_SMELL
+python:S117U"ZRename this parameter "proteomeLookIn" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ûœÎ8×´¥¯²+HÆ¯RMINORZ
+CODE_SMELL
+python:S117U"XRename this parameter "proteomeFrom" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ûœÎ8×´¥¯²+HÇ¯RMINORZ
+CODE_SMELL
+python:S117_"ZRename this local variable "bestMatch" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈÖ‚¾8×´¥¯²+HÈ¯RMINORZ
+CODE_SMELL
+python:S15428"cRename function "searchForBestMatchThreaded" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ØÑ›øÿÿÿÿ8×´¥¯²+HÉ¯RMAJORZ
+CODE_SMELL
+Upython:S1110*" Remove those useless parentheses(ï–ÊD8×´¥¯²+HÊ¯RMAJORZ
+CODE_SMELL
+‹python:S1542U"URename function "findOrtholog" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ûœÎ8×´¥¯²+HË¯RMAJORZ
+CODE_SMELL
+Vpython:S11106" Remove those useless parentheses(²ËŒ½8‚İ‰°²+HÌ¯RMAJORZ
+CODE_SMELL
+Vpython:S1110%" Remove those useless parentheses(‹”««8Ã—Ç»²+HÍ¯RMAJORZ
+CODE_SMELL
+python:S117""YRename this local variable "maxScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëª’8×´¥¯²+HÎ¯RMINORZ
+CODE_SMELL
+˜python:S117M"^Rename this local variable "possibleScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(õáãİÿÿÿÿÿ8×´¥¯²+HÏ¯RMINORZ
+CODE_SMELL
+’python:S1178"XRename this parameter "numOfThreads" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ØÑ›øÿÿÿÿ8×´¥¯²+HĞ¯RMINORZ
+CODE_SMELL
+—python:S1542"\Rename function "_searchForBestMatch" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦Ó¦‘ûÿÿÿÿ8×´¥¯²+HÑ¯RMAJORZ
+CODE_SMELL
+[python:S1110N" Remove those useless parentheses(ƒó™ûÿÿÿÿ8×´¥¯²+HÒ¯RMAJORZ
+CODE_SMELL

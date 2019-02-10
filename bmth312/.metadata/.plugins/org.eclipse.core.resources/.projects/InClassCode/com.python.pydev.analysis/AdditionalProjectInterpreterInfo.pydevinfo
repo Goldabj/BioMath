@@ -1,0 +1,32 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\.metadata\.plugins\org.eclipse.core.resources\.projects\InClassCode\com.python.pydev.analysis\v2_indexcache
+defalut.Inclass|1492452978461174000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\InClassCode\defalut\Inclass.py
+defalut.lesson425|1493171635029825000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\InClassCode\defalut\lesson425.py
+defalut.__init__|1490119800493741000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\InClassCode\defalut\__init__.py
+defalut.lesson424|1493171634970158000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\InClassCode\defalut\lesson424.py
+defalut.lessons|1492452761858048000|C:\Users\Goldacbj\Google Drive\Documents\Eclipse Workspaces\New folder\InClassCode\defalut\lessons.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=defalut.Inclass
+4=defalut.lesson425
+3=defalut.lesson424
+2=defalut.lessons
+-- END DICTIONARY
+-- START TREE 1
+10
+ali|1|alignmentStats5_2!10@
+com|6|computePscoreFromZscore!18@computePam1!18@computeZscoreForAlignment!18@computeRandomAlignmentScores!18@computeLetterDistribution!18@computeMutationMatrix!10@
+fin|1|FindSequence!10@
+gen|1|generateRandomSequences!18@
+get|2|getInsulinAlignmentScore!18@getSequenceFromFile!18@
+les|3|lesson424!26@lesson425!34@lesson417!18@
+pro|1|probablitiyMutationExample!10@
+psc|1|pscorestuff!10@
+rea|1|readBlosum62AlignmentScores!10@
+seq|1|SequenceExamples!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

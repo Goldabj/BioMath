@@ -1,0 +1,63 @@
+
+’python:S117"WRename this parameter "gapPentalty" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò÷ýýùÿÿÿÿ8Æ‹™ò¯+HÈ¨RMINORZ
+CODE_SMELL
+˜python:S117?"cRename this local variable "optimalScoreMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìš…¾8Æ‹™ò¯+HÉ¨RMINORZ
+CODE_SMELL
+[python:S1110s" Remove those useless parentheses(Õ±Ü‡ÿÿÿÿÿ8Æ‹™ò¯+HÊ¨RMAJORZ
+CODE_SMELL
+Wpython:S1110€" Remove those useless parentheses(Ñƒê8Ÿî„ô¯+HË¨RMAJORZ
+CODE_SMELL
+“python:S117k"YRename this local variable "currentY" to match the regular expression ^[_a-z][a-z0-9_]*$.(ý­šÐùÿÿÿÿ8Æ‹™ò¯+HÌ¨RMINORZ
+CODE_SMELL
+[python:S1110n" Remove those useless parentheses(›Õ–òúÿÿÿÿ8Æ‹™ò¯+HÍ¨RMAJORZ
+CODE_SMELL
+špython:S1542"^Rename function "computeAlignmentScore" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ò÷ýýùÿÿÿÿ8îãƒ‚²+HÎ¨RMAJORZ
+CODE_SMELL
+‹python:S3776>"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢Ã¾À8Æ‹™ò¯+HÏ¨RCRITICALZ
+CODE_SMELL
+python:S117#"VRename this parameter "gapPenalty" to match the regular expression ^[_a-z][a-z0-9_]*$.(²êûñúÿÿÿÿ8Æ‹™ò¯+HÐ¨RMINORZ
+CODE_SMELL
+”python:S117"YRename this parameter "scoringMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò÷ýýùÿÿÿÿ8÷Ë©ô¯+HÑ¨RMINORZ
+CODE_SMELL
+˜python:S117%"^Rename this local variable "scoringMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(àèáÊüÿÿÿÿ8Æ‹™ò¯+HÒ¨RMINORZ
+CODE_SMELL
+’python:S117i"]Rename this local variable "currentScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŽœåÉ8Æ‹™ò¯+HÓ¨RMINORZ
+CODE_SMELL
+“python:S15423"^Rename function "_computeScoringMatrix" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯ê(8îãƒ‚²+HÔ¨RMAJORZ
+CODE_SMELL
+Upython:S1110w" Remove those useless parentheses(¦Õƒ}8Æ‹™ò¯+HÕ¨RMAJORZ
+CODE_SMELL
+“python:S1174"^Rename this local variable "scoringMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(žÝÐÙ8Æ‹™ò¯+HÖ¨RMINORZ
+CODE_SMELL
+“python:S117j"YRename this local variable "currentX" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ý¥áÝþÿÿÿÿ8Æ‹™ò¯+H×¨RMINORZ
+CODE_SMELL
+Upython:S1110l" Remove those useless parentheses(¡Ë¯8Æ‹™ò¯+HØ¨RMAJORZ
+CODE_SMELL
+”python:S1542#"YRename function "computeAlignment" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²êûñúÿÿÿÿ8îãƒ‚²+HÙ¨RMAJORZ
+CODE_SMELL
+œpython:S117A"bRename this local variable "optimalPathMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(€ÈÆ£ÿÿÿÿÿ8Æ‹™ò¯+HÚ¨RMINORZ
+CODE_SMELL
+“python:S117#"YRename this parameter "matchUpMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(²êûñúÿÿÿÿ8§õ ‹°+HÛ¨RMINORZ
+CODE_SMELL
+œpython:S117)"bRename this local variable "optimalPathMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÝÝÇùÿÿÿÿ8Æ‹™ò¯+HÜ¨RMINORZ
+CODE_SMELL
+Wpython:S1110…" Remove those useless parentheses(¡—Ÿ·8Ÿî„ô¯+HÝ¨RMAJORZ
+CODE_SMELL
+˜python:S1542>"bRename function "_computeOptimalPathMatrix" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢Ã¾À8îãƒ‚²+HÞ¨RMAJORZ
+CODE_SMELL
+—python:S117e"]Rename this parameter "optimalPathMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰­¡ýþÿÿÿÿ8Æ‹™ò¯+Hß¨RMINORZ
+CODE_SMELL
+Vpython:S1110" Remove those useless parentheses(òÜú›8Ÿî„ô¯+Hà¨RMAJORZ
+CODE_SMELL
+—python:S134J"]Refactor this code to not nest more than 4 "if", "for", "while", "try" and "with" statements.(Ö«äÿÿÿÿÿ8Æ‹™ò¯+Há¨RMAJORZ
+CODE_SMELL
+\python:S1110„" Remove those useless parentheses(óÒÀšøÿÿÿÿ8Ÿî„ô¯+Hâ¨RMAJORZ
+CODE_SMELL
+Žpython:S117>"YRename this parameter "scoringMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Ã¾À8Æ‹™ò¯+Hã¨RMINORZ
+CODE_SMELL
+˜python:S1542"bRename function "interactiveInputAlignment" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥ºàË8îãƒ‚²+Hä¨RMAJORZ
+CODE_SMELL
+špython:S1542e"_Rename function "_backTrackForAlignment" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰­¡ýþÿÿÿÿ8îãƒ‚²+Hå¨RMAJORZ
+CODE_SMELL
+Œpython:S117>"WRename this parameter "gapPentalty" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Ã¾À8÷Ë©ô¯+Hæ¨RMINORZ
+CODE_SMELL

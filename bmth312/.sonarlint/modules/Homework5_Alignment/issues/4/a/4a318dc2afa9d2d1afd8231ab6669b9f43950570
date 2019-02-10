@@ -1,0 +1,83 @@
+
+—python:S117W"bRename this local variable "probabilityMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ÁÃ8¬óŒÎ³+Hë¨RMINORZ
+CODE_SMELL
+—python:S1542S"\Rename function "computeMutationRate" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³‹Üúúÿÿÿÿ8ùô¬¹³+Hì¨RMAJORZ
+CODE_SMELL
+‹python:S117a"VRename this parameter "subsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(İïù­8ùô¬¹³+Hí¨RMINORZ
+CODE_SMELL
+’python:S117"]Rename this local variable "mutationList" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹Ì£¾8¬óŒÎ³+Hî¨RMINORZ
+CODE_SMELL
+•python:S117v"[Rename this local variable "matchCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÆ¢úÿÿÿÿ8÷’¥Ï³+Hï¨RMINORZ
+CODE_SMELL
+œpython:S117'"bRename this local variable "twentyCountMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã¤éşÿÿÿÿ8‚¾Ï³+Hğ¨RMINORZ
+CODE_SMELL
+Ÿpython:S117V"eRename this local variable "symmetricCountMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(“»ÿÿÿÿÿ8¬óŒÎ³+Hñ¨RMINORZ
+CODE_SMELL
+‹python:S1175"VRename this parameter "subsMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥Àµ8ùô¬¹³+Hò¨RMINORZ
+CODE_SMELL
+špython:S117""eRename this local variable "twentyPercentRecords" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú‰ˆë8Ê¿ôÎ³+Hó¨RMINORZ
+CODE_SMELL
+–python:S117"\Rename this local variable "countMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üµ¶Ûüÿÿÿÿ8ùô¬¹³+Hô¨RMINORZ
+CODE_SMELL
+Vpython:S1110H" Remove those useless parentheses(˜ØÏ¬8¾°¯Ë³+Hõ¨RMAJORZ
+CODE_SMELL
+œpython:S117."bRename this local variable "nintyMutationRate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆÇæÑÿÿÿÿÿ8‚¾Ï³+Hö¨RMINORZ
+CODE_SMELL
+‘python:S1542q"[Rename function "computeSeqIdentity" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿äñ8÷’¥Ï³+H÷¨RMAJORZ
+CODE_SMELL
+”python:S117X"`Rename this local variable "individualProbs" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÍû8®‡´Î³+Hø¨RMINORZ
+CODE_SMELL
+˜python:S117["^Rename this local variable "mutationRates" to match the regular expression ^[_a-z][a-z0-9_]*$.(™â’òıÿÿÿÿ8®‡´Î³+Hù¨RMINORZ
+CODE_SMELL
+œpython:S117+"bRename this local variable "totalMutationRate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÇÙ²‚úÿÿÿÿ8î°ÀÏ³+Hú¨RMINORZ
+CODE_SMELL
+Œpython:S1175"WRename this parameter "pseudoCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥Àµ8ùô¬¹³+Hû¨RMINORZ
+CODE_SMELL
+™python:S117#"dRename this local variable "fiftyPercentRecords" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ˆÃí8Ê¿ôÎ³+Hü¨RMINORZ
+CODE_SMELL
+–python:S117k"\Rename this local variable "seqIdentity" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ÇÄâüÿÿÿÿ8Ü¤çÎ³+Hı¨RMINORZ
+CODE_SMELL
+—python:S15425"aRename function "computePseudoCountMatrix" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥Àµ8ùô¬¹³+Hş¨RMAJORZ
+CODE_SMELL
+˜python:S117C"^Rename this local variable "alignmentSeq2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØœÇ®ùÿÿÿÿ8¾°¯Ë³+Hÿ¨RMINORZ
+CODE_SMELL
+˜python:S117,"cRename this local variable "twentyMutationRate" to match the regular expression ^[_a-z][a-z0-9_]*$.(µÇã·8‚¾Ï³+H€©RMINORZ
+CODE_SMELL
+›python:S117("aRename this local variable "fiftyCountMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì’½àúÿÿÿÿ8‚¾Ï³+H©RMINORZ
+CODE_SMELL
+python:S1175"ZRename this parameter "otherSequences" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥Àµ8ùô¬¹³+H‚©RMINORZ
+CODE_SMELL
+[python:S1110|" Remove those useless parentheses(Úõ§¸üÿÿÿÿ8÷’¥Ï³+Hƒ©RMAJORZ
+CODE_SMELL
+python:S117$"dRename this local variable "nintyPercentRecords" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ²šåúÿÿÿÿ8‚¾Ï³+H„©RMINORZ
+CODE_SMELL
+—python:S117-"bRename this local variable "fiftyMutationRate" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹ğÄé8‚¾Ï³+H…©RMINORZ
+CODE_SMELL
+Vpython:S1110~" Remove those useless parentheses(òİòÁ8÷’¥Ï³+H†©RMAJORZ
+CODE_SMELL
+“python:S117d"^Rename this local variable "goodSequences" to match the regular expression ^[_a-z][a-z0-9_]*$.(­òŒ’8Ü¤çÎ³+H‡©RMINORZ
+CODE_SMELL
+python:S117u"ZRename this local variable "minLength" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Ê÷8÷’¥Ï³+Hˆ©RMINORZ
+CODE_SMELL
+˜python:S117!"cRename this local variable "zeroPercentRecords" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë•¢8Ê¿ôÎ³+H‰©RMINORZ
+CODE_SMELL
+‘python:S117:"\Rename this local variable "countMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡’æ8ÀÁ¼¹³+HŠ©RMINORZ
+CODE_SMELL
+™python:S117Y"_Rename this local variable "mutationMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËäÊİúÿÿÿÿ8®‡´Î³+H‹©RMINORZ
+CODE_SMELL
+python:S117a"ZRename this parameter "otherSequences" to match the regular expression ^[_a-z][a-z0-9_]*$.(İïù­8ùô¬¹³+HŒ©RMINORZ
+CODE_SMELL
+‘python:S117a"\Rename this parameter "sequenceIdentity" to match the regular expression ^[_a-z][a-z0-9_]*$.(İïù­8ùô¬¹³+H©RMINORZ
+CODE_SMELL
+–python:S117&"aRename this local variable "totalcountMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å˜”8‚¾Ï³+H©RMINORZ
+CODE_SMELL
+‘python:S117S"WRename this parameter "countMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(³‹Üúúÿÿÿÿ8ùô¬¹³+H©RMINORZ
+CODE_SMELL
+—python:S1542a"aRename function "getSeqIdentityAlignments" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İïù­8ùô¬¹³+H©RMAJORZ
+CODE_SMELL
+Vpython:S1110l" Remove those useless parentheses(ÇØ’8Ü¤çÎ³+H‘©RMAJORZ
+CODE_SMELL
+•python:S117)"aRename this local variable "nintyCountMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(–””8‚¾Ï³+H’©RMINORZ
+CODE_SMELL
+“python:S117B"^Rename this local variable "alignmentSeq1" to match the regular expression ^[_a-z][a-z0-9_]*$.(áŸóÅ8¾°¯Ë³+H“©RMINORZ
+CODE_SMELL
